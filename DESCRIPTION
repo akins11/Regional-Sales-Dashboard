@@ -1,0 +1,37 @@
+Package: regionalSalesDashboard
+Title: Regional sales management dashboard
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ayomide", "Akinwande", , "akinwandeayomide24@gmail.com", role = c("cre", "aut"))
+Description: A sales dashboard with key insights and metrics for
+    management
+License: What license is it under?
+Imports: 
+    bs4Dash,
+    config (>= 0.3.1),
+    dplyr,
+    echarts4r,
+    fontawesome,
+    golem (>= 0.3.4),
+    highcharter,
+    lubridate,
+    pkgload,
+    purrr,
+    reactable,
+    reactablefmtr,
+    rlang,
+    shiny (>= 1.7.2),
+    shinycssloaders,
+    shinyjs,
+    shinyWidgets,
+    stringr,
+    vroom,
+    waiter
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 7.2.1

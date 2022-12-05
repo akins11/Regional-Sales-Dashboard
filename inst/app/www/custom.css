@@ -1,0 +1,130 @@
+/*body {
+  background-color: #F5F3F4;
+}
+*/
+
+.box-shadow-strength-o{
+  box-shadow: 1px 1px 25px 0px #B0B0B0;
+}
+
+.box-shadow-strength-1{
+  box-shadow: 1px 1px 25px 3px #B0B0B0;
+  border-radius: 5px;
+}
+
+.box-shadow-strength-2{
+  box-shadow: 1px 1px 25px 10px #B0B0B0;
+}
+
+#description {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.description-block {
+    display: block;
+    margin: 10px 0;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.description-block>.description-header {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.border-right {
+    border-right: 1px solid #dee2e6!important;
+    border-right-width: 1px !important;
+    border-right-style: solid !important;
+    border-right-color: rgb(222, 226, 230) !important;
+}
+
+.description-block>.description-text {
+    text-transform: uppercase;
+    color: #404040;
+}
+
+.description-block>.description-text-percent {
+  color: #969696;
+}
+
+
+.description-block>.description-value {
+  font-size: 16px;
+  font-weight: bold;
+  color: #111111;
+}
+
+.description-block>.description-value-percent-red {
+  font-size: 16px;
+  font-weight: bold;
+  color: #FF3030;
+}
+.description-block>.description-value-percent-blue {
+  font-size: 16px;
+  font-weight: bold;
+  color: #007FFF;
+}
+
+
+.small-label-text {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+.control-label {
+  color: #BDBDBD;
+}
+
+.logo-pos {
+  margin-top: -2px;
+  margin-bottom: -2px;
+  padding-left: 0px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+
+.panel-h580 {
+  min-height: 580px;
+}
+.panel-h540 {
+  min-height: 540px;
+}
+.panel-h533 {
+  min-height: 533px;
+}
+.panel-h660 {
+  min-height: 660px;
+}
+.panel-h440 {
+  min-height: 440px;
+}
+.panel-h528 {
+  min-height: 528px;
+}
+
+.panel-h487 {
+  min-height: 487px;
+}
+
+.diff-bg-color {
+  background-color: #FCFCFC;
+}
+
+/* card border-dark mb-3 light */

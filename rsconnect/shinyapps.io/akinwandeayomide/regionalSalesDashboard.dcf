@@ -1,0 +1,14 @@
+name: regionalSalesDashboard
+title: regionalSalesDashboard
+username:
+account: akinwandeayomide
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7491770
+bundleId: 6590708
+url: https://akinwandeayomide.shinyapps.io/regionalSalesDashboard/
+when: 1670199037.67015
+lastSyncTime: 1670199037.67033
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.Rmd|tests
